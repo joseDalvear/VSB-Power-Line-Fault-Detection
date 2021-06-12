@@ -82,8 +82,7 @@ Tercera parte: Se realiza un proceso de reducción de características para lueg
 
 # Pipeline
 Se dejan una explicación grafica en la carpeta compartida
-https://drive.google.com/file/d/1LZkf5kQ0h2Fq988a9DaHoToRXPvCYyNO/view?usp=sharing
-
+https://drive.google.com/drive/folders/1ouP_u7iDyexLqhTWF0FHqBQOxZid7GEB?usp=sharing
 
 # Visitar la publicación del proyecto en Kaggle
 Si quieres visitar el proyecto alojado en Kaggle directamente esta es la dirección
